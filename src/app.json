@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/recognize/main",
+    "pages/watermark/main",
+    "pages/webview/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "HAMMER",
+    "navigationBarTextStyle": "black"
+  }
+}
